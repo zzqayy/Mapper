@@ -39,8 +39,8 @@
     <dependencies>
         <!--必须依赖-->
         <dependency>
-            <groupId>javax.persistence</groupId>
-            <artifactId>javax.persistence-api</artifactId>
+            <groupId>jakarta.persistence</groupId>
+            <artifactId>jakarta.persistence-api</artifactId>
         </dependency>
         <dependency>
             <groupId>tk.mybatis</groupId>
@@ -65,11 +65,6 @@
         <dependency>
             <groupId>tk.mybatis</groupId>
             <artifactId>mapper-weekend</artifactId>
-            <optional>true</optional>
-        </dependency>
-        <dependency>
-            <groupId>tk.mybatis</groupId>
-            <artifactId>mapper-generator</artifactId>
             <optional>true</optional>
         </dependency>
     </dependencies>

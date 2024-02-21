@@ -57,10 +57,6 @@
             <groupId>tk.mybatis</groupId>
             <artifactId>mapper-weekend</artifactId>
         </dependency>
-        <dependency>
-            <groupId>tk.mybatis</groupId>
-            <artifactId>mapper-generator</artifactId>
-        </dependency>
     </dependencies>
 
 </project>
